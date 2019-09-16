@@ -147,7 +147,7 @@ except:
     back_time = 0
     
 if(back_time != 0):
-    print(str(back_time) + '시간 간격으로 백업')
+   # print(str(back_time) + '시간 간격으로 백업')
 
     if(__name__ == '__main__'):
         back_up()

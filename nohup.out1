@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "app.py", line 150, in <module>
+    print(str(back_time) + '\uc2dc\uac04 \uac04\uaca9\uc73c\ub85c \ubc31\uc5c5')
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 2-3: ordinal not in range(128)
